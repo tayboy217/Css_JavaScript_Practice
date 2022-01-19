@@ -3,17 +3,19 @@
 }
 
 .btn {
-  background-color: #fff;
+  background-color: white;
   color: black;
   border: 2px solid black;
   padding: 10px 40px;
   margin: 50px 0;
   font-weight: bold;
   cursor: pointer;
-  transition: all 0.3s ease 3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
 }
 
 .btn:hover {
   background-color: black;
-  color: #fff;
+  color: white;
 }
+/*# sourceMappingURL=style.css.map */
