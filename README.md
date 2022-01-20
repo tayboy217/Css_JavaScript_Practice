@@ -6,3 +6,7 @@
 - transformについて 
 - positionとz-indexについて
 - 疑似要素はcontent: '';が必要(before or after)
+## Animation(Css)
+- アニメーションを使って簡単なローダーを作成
+- AnimationとKeyframesの文法学習
+- Sass @Mixinを使ったコーディング
