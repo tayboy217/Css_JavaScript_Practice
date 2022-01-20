@@ -1,0 +1,16 @@
+.rect {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: orangered;
+  // transform: translate(50px, 50px);
+  // 要素を水平方向や垂直方向で再配置できる
+  // transform: rotate(-30deg);
+  // 物体を回転することができる
+  // transform: skew(-30deg);
+  // 物体の形を菱形のように変形することができる
+  transform: scale(1.1, 1.1);
+  // 縦幅・横幅を倍にすることができる
+  transform-origin: center center;
+
+}
