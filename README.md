@@ -10,3 +10,4 @@
 - アニメーションを使って簡単なローダーを作成
 - AnimationとKeyframesの文法学習
 - Sass @Mixinを使ったコーディング
+- 擬似セレクター :nth-child, :nth-of-type
