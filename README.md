@@ -15,3 +15,5 @@
 - 文字列にアニメーション
 - フェードインアニメーション
 - 画像にオシャレなカバースライドアニメーション
+## JavaScript
+- IntersectionObserver
